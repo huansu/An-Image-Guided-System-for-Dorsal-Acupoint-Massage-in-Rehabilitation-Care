@@ -52,7 +52,8 @@ dataset/
 
 ### (3) 🚀 Train or Inference
 
-This project follows the Ultralytics YOLO pose pipeline (task=`pose`).  
+This project follows the Ultralytics YOLO pose pipeline (task=`pose`).\
+(We sincerely thank the Ultralytics team and contributors for their outstanding open-source work and well-maintained ecosystem.) \
 Please prepare the dataset YAML in Ultralytics pose format before training.
 
 

@@ -72,7 +72,7 @@ Please prepare the dataset YAML in Ultralytics pose format before training.
 |          | √ | × | √ | 94.7 | 63.3 |
 |          | √ | √ | × | **95.5** | 62.6 |
 |          | √ | √ | √ | 95.2 | **63.5** |
-|
+
 
 ### (2) Comparisons with State-of-the-Art Methods【Visual Algorithm】
 **Table 2. Results of multi-model comparison experiments.**
@@ -86,7 +86,7 @@ Please prepare the dataset YAML in Ultralytics pose format before training.
 | SCNet          | 87.5 | 44.6 | 34.1M | 5.517G |
 | RTMPose        | 88.3 | 45.1 | 6.0M  | 0.72G  |
 | **Ours**       | **95.2** | **63.5** | **21.6M** | **81.4G** |
-|
+
 
 ### (3) Comparisons with State-of-the-Art Methods【Path Planning Algorithm】
 **Table 3. Lengths of paths planned by different algorithms.**
@@ -97,7 +97,7 @@ Please prepare the dataset YAML in Ultralytics pose format before training.
 | 1279×1706    | 4379.79 | 2641.62 | 2547.02 | 2903.04 | 2789.27 | **2536.67** |
 | 3072×4096    | 10912.57 | 9348.37 | 8413.03 | 8457.25 | 9397.98 | **8096.96** |
 | 4000×6000    | 11647.12 | 9216.58 | 8309.28 | 8930.49 | 9159.41 | **7294.31** |
-|
+
 
 ![pic](pic/PathPlanning.svg)
 

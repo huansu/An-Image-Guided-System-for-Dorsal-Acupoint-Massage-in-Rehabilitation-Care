@@ -1,4 +1,4 @@
-# *Location and Path Planning of Dorsal Acupoints for a Robotic Massage System*
+# *An Image-Guided System for Dorsal Acupoint Massage in Rehabilitation Care*
 
 > **Brief:** This repository contains code for dorsal acupoint localization and path planning for a robotic massage system.
 ![pic](pic/pipeline.svg)
